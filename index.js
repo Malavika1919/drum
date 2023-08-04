@@ -65,7 +65,7 @@ function makeSound(key) {
       audio.play();
       break;
     case "a":
-        var audio = new Audio('sounds/kick-bass.mp3');
+        var audio = new Audio('sounds/tom-4.mp3');
         audio.play();
         break;
 

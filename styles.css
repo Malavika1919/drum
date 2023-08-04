@@ -63,13 +63,16 @@ footer {
 .k {
   background-image: url("images/kick.png");
 }
+.a {
+  background-image: url("images/tom4.png");
+}
 
 .set {
   margin: 10% auto;
 }
 
 .game-over {
-  background-color: red;
+  background-color: purple;
   opacity: 0.8;
 }
 
